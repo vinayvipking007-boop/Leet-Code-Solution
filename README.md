@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -34,4 +35,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0058-length-of-last-word) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
