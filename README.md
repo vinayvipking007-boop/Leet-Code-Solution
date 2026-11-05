@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0268-missing-number) |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0242-valid-anagram) |
@@ -127,4 +129,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
