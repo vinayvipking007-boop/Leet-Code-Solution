@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -25,4 +26,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/1929-concatenation-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
