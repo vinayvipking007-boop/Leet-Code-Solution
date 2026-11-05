@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1672-richest-customer-wealth](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/1929-concatenation-of-array) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0268-missing-number) |
 | [0997-find-the-town-judge](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0997-find-the-town-judge) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0169-majority-element) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
