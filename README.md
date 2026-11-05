@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0219-contains-duplicate-ii) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
