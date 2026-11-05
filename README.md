@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1920-build-array-from-permutation](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/1929-concatenation-of-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0997-find-the-town-judge](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/1207-unique-number-of-occurrences) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Two Pointers
 |  |
 | ------- |
