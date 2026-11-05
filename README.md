@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
