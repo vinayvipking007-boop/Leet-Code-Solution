@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0268-missing-number) |
 | [0997-find-the-town-judge](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/1207-unique-number-of-occurrences) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0016-3sum-closest](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
