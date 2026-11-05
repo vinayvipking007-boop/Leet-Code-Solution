@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0268-missing-number) |
 | [0997-find-the-town-judge](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0997-find-the-town-judge) |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0268-missing-number) |
 | [0997-find-the-town-judge](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0997-find-the-town-judge) |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
@@ -74,4 +77,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0997-find-the-town-judge) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
