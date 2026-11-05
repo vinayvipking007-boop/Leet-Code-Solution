@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0283-move-zeroes) |
 | [0997-find-the-town-judge](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0016-3sum-closest](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0344-reverse-string) |
 ## Math
 |  |
