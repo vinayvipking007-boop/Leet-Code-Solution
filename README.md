@@ -30,4 +30,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/1480-running-sum-of-1d-array) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
