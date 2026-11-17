@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0066-plus-one) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0016-3sum-closest](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0344-reverse-string) |
