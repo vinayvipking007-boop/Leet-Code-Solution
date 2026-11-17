@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0268-missing-number) |
@@ -129,12 +130,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0206-reverse-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0206-reverse-linked-list) |
 ## Dynamic Programming
