@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1108-defanging-an-ip-address](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0219-contains-duplicate-ii) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Graph Theory
 |  |
 | ------- |
@@ -169,4 +171,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Enumeration
+|  |
+| ------- |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 <!---LeetCode Topics End-->
