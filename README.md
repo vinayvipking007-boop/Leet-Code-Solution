@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0724-find-pivot-index) |
 | [0997-find-the-town-judge](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/1480-running-sum-of-1d-array) |
 ## String
 |  |
