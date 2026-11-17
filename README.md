@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1672-richest-customer-wealth](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/1108-defanging-an-ip-address) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vinayvipking007-boop/Leet-Code-Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Matrix
 |  |
